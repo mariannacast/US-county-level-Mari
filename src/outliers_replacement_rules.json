@@ -1,0 +1,422 @@
+{
+  "fips": [
+    0,
+    85433.0
+  ],
+  "TOT_POP": [
+    0,
+    153337.62
+  ],
+  "0-9": [
+    0,
+    18321.75
+  ],
+  "0-9 y/o % of total pop": [
+    7.06,
+    16.49
+  ],
+  "19-Oct": [
+    0,
+    19993.88
+  ],
+  "10-19 y/o % of total pop": [
+    8.7,
+    16.64
+  ],
+  "20-29": [
+    0,
+    20545.0
+  ],
+  "20-29 y/o % of total pop": [
+    6.47,
+    17.21
+  ],
+  "30-39": [
+    0,
+    18936.5
+  ],
+  "30-39 y/o % of total pop": [
+    7.76,
+    15.56
+  ],
+  "40-49": [
+    0,
+    18433.38
+  ],
+  "40-49 y/o % of total pop": [
+    8.13,
+    14.94
+  ],
+  "50-59": [
+    0,
+    20668.62
+  ],
+  "50-59 y/o % of total pop": [
+    10.2,
+    16.96
+  ],
+  "60-69": [
+    0,
+    19561.5
+  ],
+  "60-69 y/o % of total pop": [
+    7.35,
+    18.74
+  ],
+  "70-79": [
+    0,
+    12508.88
+  ],
+  "70-79 y/o % of total pop": [
+    3.41,
+    13.07
+  ],
+  "80+": [
+    0,
+    6449.88
+  ],
+  "80+ y/o % of total pop": [
+    1.12,
+    8.1
+  ],
+  "White-alone pop": [
+    0,
+    133951.25
+  ],
+  "% White-alone": [
+    55.77,
+    119.37
+  ],
+  "Black-alone pop": [
+    0,
+    14199.5
+  ],
+  "% Black-alone": [
+    0,
+    25.83
+  ],
+  "Native American/American Indian-alone pop": [
+    0,
+    1555.5
+  ],
+  "% NA/AI-alone": [
+    0,
+    2.75
+  ],
+  "Asian-alone pop": [
+    0,
+    2080.12
+  ],
+  "% Asian-alone": [
+    0,
+    2.89
+  ],
+  "Hawaiian/Pacific Islander-alone pop": [
+    0,
+    165.0
+  ],
+  "% Hawaiian/PI-alone": [
+    0,
+    0.25
+  ],
+  "Two or more races pop": [
+    0,
+    3472.5
+  ],
+  "% Two or more races": [
+    0,
+    3.99
+  ],
+  "POP_ESTIMATE_2018": [
+    0,
+    153337.62
+  ],
+  "N_POP_CHG_2018": [
+    0,
+    868.25
+  ],
+  "GQ_ESTIMATES_2018": [
+    0,
+    5349.75
+  ],
+  "R_birth_2018": [
+    5.65,
+    16.45
+  ],
+  "R_death_2018": [
+    3.45,
+    17.45
+  ],
+  "R_NATURAL_INC_2018": [
+    0,
+    10.2
+  ],
+  "R_INTERNATIONAL_MIG_2018": [
+    0,
+    3.25
+  ],
+  "R_DOMESTIC_MIG_2018": [
+    0,
+    24.3
+  ],
+  "R_NET_MIG_2018": [
+    0,
+    24.56
+  ],
+  "Less than a high school diploma 2014-18": [
+    0,
+    12888.38
+  ],
+  "High school diploma only 2014-18": [
+    0,
+    33826.25
+  ],
+  "Some college or associate's degree 2014-18": [
+    0,
+    32587.75
+  ],
+  "Bachelor's degree or higher 2014-18": [
+    0,
+    24439.25
+  ],
+  "Percent of adults with less than a high school diploma 2014-18": [
+    0,
+    29.8
+  ],
+  "Percent of adults with a high school diploma only 2014-18": [
+    15.55,
+    53.55
+  ],
+  "Percent of adults completing some college or associate's degree 2014-18": [
+    16.95,
+    44.55
+  ],
+  "Percent of adults with a bachelor's degree or higher 2014-18": [
+    0,
+    41.5
+  ],
+  "POVALL_2018": [
+    0,
+    21097.62
+  ],
+  "PCTPOVALL_2018": [
+    0,
+    29.55
+  ],
+  "PCTPOV017_2018": [
+    0,
+    44.0
+  ],
+  "PCTPOV517_2018": [
+    0,
+    42.15
+  ],
+  "MEDHHINC_2018": [
+    20959.12,
+    81540.12
+  ],
+  "CI90LBINC_2018": [
+    18106.25,
+    75818.25
+  ],
+  "CI90UBINC_2018": [
+    24272.38,
+    86579.38
+  ],
+  "Civilian_labor_force_2018": [
+    0,
+    71711.0
+  ],
+  "Employed_2018": [
+    0,
+    68788.25
+  ],
+  "Unemployed_2018": [
+    0,
+    2889.5
+  ],
+  "Unemployment_rate_2018": [
+    0.55,
+    7.35
+  ],
+  "Median_Household_Income_2018": [
+    20959.12,
+    81540.12
+  ],
+  "Med_HH_Income_Percent_of_State_Total_2018": [
+    41.7,
+    133.7
+  ],
+  "Active Physicians per 100000 Population 2018 (AAMC)": [
+    150.8,
+    355.6
+  ],
+  "Total Active Patient Care Physicians per 100000 Population 2018 (AAMC)": [
+    146.2,
+    297.4
+  ],
+  "Active Primary Care Physicians per 100000 Population 2018 (AAMC)": [
+    54.65,
+    119.85
+  ],
+  "Active Patient Care Primary Care Physicians per 100000 Population 2018 (AAMC)": [
+    51.45,
+    108.65
+  ],
+  "Active General Surgeons per 100000 Population 2018 (AAMC)": [
+    4.8,
+    10.4
+  ],
+  "Active Patient Care General Surgeons per 100000 Population 2018 (AAMC)": [
+    4.45,
+    8.85
+  ],
+  "Total nurse practitioners (2019)": [
+    0,
+    79.88
+  ],
+  "Total physician assistants (2019)": [
+    0,
+    42.78
+  ],
+  "Total Hospitals (2019)": [
+    0,
+    2.91
+  ],
+  "Internal Medicine Primary Care (2019)": [
+    0,
+    84.99
+  ],
+  "Family Medicine/General Practice Primary Care (2019)": [
+    0,
+    70.31
+  ],
+  "Total Specialist Physicians (2019)": [
+    0,
+    237.56
+  ],
+  "ICU Beds_x": [
+    0,
+    30.0
+  ],
+  "Total Population": [
+    0,
+    152301.38
+  ],
+  "Population Aged 60+": [
+    0,
+    36043.5
+  ],
+  "Percent of Population Aged 60+": [
+    11.3,
+    37.7
+  ],
+  "STATE_FIPS": [
+    0,
+    85.5
+  ],
+  "CNTY_FIPS": [
+    0,
+    280.0
+  ],
+  "county_pop2018_18 and older": [
+    0,
+    119360.25
+  ],
+  "anycondition_prevalence": [
+    30.75,
+    63.15
+  ],
+  "anycondition_Lower 95% CI": [
+    28.65,
+    61.05
+  ],
+  "anycondition_Upper 95% CI": [
+    32.85,
+    65.25
+  ],
+  "anycondition_number": [
+    0,
+    56180.62
+  ],
+  "Obesity_prevalence": [
+    24.15,
+    46.15
+  ],
+  "Obesity_Lower 95% CI": [
+    22.55,
+    44.55
+  ],
+  "Obesity_Upper 95% CI": [
+    25.71,
+    47.81
+  ],
+  "Obesity_number": [
+    0,
+    41743.75
+  ],
+  "Heart disease_prevalence": [
+    3.8,
+    13.4
+  ],
+  "Heart disease_Lower 95% CI": [
+    3.4,
+    12.2
+  ],
+  "Heart disease_Upper 95% CI": [
+    4.45,
+    14.45
+  ],
+  "COPD_prevalence": [
+    2.35,
+    15.55
+  ],
+  "COPD_Lower 95% CI": [
+    1.95,
+    13.55
+  ],
+  "COPD_Upper 95% CI": [
+    3.1,
+    17.5
+  ],
+  "COPD_number": [
+    0,
+    10595.0
+  ],
+  "diabetes_prevalence": [
+    5.8,
+    20.2
+  ],
+  "diabetes_Lower 95% CI": [
+    5.2,
+    18.8
+  ],
+  "diabetes_Upper 95% CI": [
+    6.4,
+    21.6
+  ],
+  "diabetes_number": [
+    0,
+    14916.5
+  ],
+  "CKD_prevalence": [
+    2.05,
+    4.85
+  ],
+  "CKD_Lower 95% CI": [
+    2.0,
+    4.4
+  ],
+  "CKD_Upper 95% CI": [
+    2.1,
+    5.3
+  ],
+  "CKD_number": [
+    0,
+    3968.5
+  ],
+  "Urban_rural_code": [
+    0,
+    10.5
+  ]
+}
